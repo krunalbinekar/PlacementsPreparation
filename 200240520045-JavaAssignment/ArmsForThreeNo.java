@@ -1,4 +1,4 @@
-
+i  am fine
 import java.util.Scanner;
 
 public class ArmsForThreeNo {
